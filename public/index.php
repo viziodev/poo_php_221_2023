@@ -1,4 +1,3 @@
 <?php 
 //Front Controller
-
-echo "Bonjour";
+  echo "Bonjour";
